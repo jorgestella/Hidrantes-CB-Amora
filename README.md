@@ -1,2 +1,2 @@
-# Hidrantes-CB-Amora
-Sistema de localização de marcos de água do Corpo de Bombeiros
+# Hidrantes CB
+Protótipo V3 para GitHub Pages. Os marcos são dados de demonstração.
